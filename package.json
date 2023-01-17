@@ -1,0 +1,16 @@
+{
+  "name": "fast-colors",
+  "version": "1.0.0",
+  "description": "fast-colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "FastUptime & Can",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
