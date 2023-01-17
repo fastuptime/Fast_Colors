@@ -2,7 +2,7 @@
 
 ## Resimler
 
-![image](https://user-images.githubusercontent.com/63351166/212912635-49046b23-20b1-45c5-8c68-f1a4b1e5a85a.png)
+![image](https://user-images.githubusercontent.com/63351166/212912635-49046b23-20b1-45c5-8c68-f1a4b1e5a85a.png)<br>
 ![image](https://user-images.githubusercontent.com/63351166/212912709-8e29ad87-7e59-4bac-878c-2772632ce091.png)
 ![image](https://user-images.githubusercontent.com/63351166/212912739-e0781714-5394-4e8a-8556-1d814565cc4e.png)
 
